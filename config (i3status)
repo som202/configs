@@ -20,7 +20,7 @@ order += "disk /"
 order += "tztime local"
 
 volume master {
-    format = "vlm: %volume"
+    format = "vol: %volume"
     format_muted = "muted %volume"
     device = "default"
     mixer = "Master"
