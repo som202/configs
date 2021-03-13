@@ -2,9 +2,9 @@ window:
   dimensions:
     columns: 100
     lines: 38
-  padding:
-    x: 10
-    y: 10
+  #padding:
+    #x: 10
+    #y: 10
     #  decorations: none
 background_opacity: 0.9
 
