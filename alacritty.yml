@@ -6,11 +6,11 @@ window:
     #x: 10
     #y: 10
     #  decorations: none
-background_opacity: 0.9
+background_opacity: 1
 
 font:
   normal:
-    family: PragmataPro
+    family: SFMono
     style: Regular
   #bold:
   #family: DejaVu Sans
@@ -19,7 +19,7 @@ font:
   #family: DejaVu Sans
   # style: Bold
 
-  size: 13.0
+  size: 12.0
 
   # Offset is the extra space around each character. `offset.y` can be thought
   # of as modifying the line spacing, and `offset.x` as modifying the letter
