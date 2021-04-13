@@ -1,3 +1,3 @@
-colorscheme simple-dark
+colorscheme alduin
 set number
 set shiftwidth=4
