@@ -6,11 +6,11 @@ window:
     #x: 10
     #y: 10
     #  decorations: none
-background_opacity: 1
+background_opacity: 0
 
 font:
   normal:
-    family: SFMono
+    family: Iosevka
     style: Regular
   #bold:
   #family: DejaVu Sans
