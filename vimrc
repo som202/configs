@@ -8,3 +8,4 @@ inoremap {<CR> {<CR>}<ESC>O
 inoremap {;<CR> {<CR>};<ESC>O
 set tabstop=4
 set shiftwidth=4
+colo nord
